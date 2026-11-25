@@ -1,0 +1,9 @@
+[package]
+name = "gravestone"
+version = "1.0.0"
+edition = "2021"
+authors = ["wareal-nah"]
+license = "MIT"
+description = "Gravestone mechanics and death recovery for Horizon."
+
+[dependencies]

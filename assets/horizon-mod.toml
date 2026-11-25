@@ -1,0 +1,8 @@
+id = "gravestone"
+name = "Gravestone"
+version = "1.0.0"
+description = "Gravestone block, death recovery mechanics, obituary note, and GUI."
+authors = ["wareal-nah"]
+api = "0.2"
+side = "both"
+capabilities = ["registries"]
